@@ -24,5 +24,10 @@
 
 ![GUI](GUI.jpg)
 
+
+## USAGE
+* You can run this program from executable jar file by this command _"java -jar MVCEpidemic.jar"_, (jar file has been compiled by version of the Java Runtime (class file version 59.0)) 
+* If you use older jre, you can compile the program _“javac *.java”_ command and run this program _“java Main”_ command.
+
 **_For detailed description please read report.pdf file._**
 
