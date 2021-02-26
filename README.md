@@ -1,4 +1,4 @@
-# Epidemic-Simulation-Game
+# Epidemic-Simulation-Program
 
 ## Project Features
 
